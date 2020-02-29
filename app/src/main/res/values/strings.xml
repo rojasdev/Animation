@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="app_label1">Hello World</string>
+    <string name="app_label2">Demo Text</string>
+    <string name="app_label3">Welcome to our APP!</string>
+    <string name="app_label4">Text Here</string>
+</resources>
